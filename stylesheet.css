@@ -7,9 +7,9 @@
     margin-top: 25px;
     margin-left: 15px;
     margin-right: 20px;
-    width:300px;
+    width:250px;
     border-radius: 40px;
-    padding: 10px 15px 15px 15px;
+    padding: 5px 15px 5px 15px;
     
     
 }
@@ -20,12 +20,12 @@
     border: 5px solid red;
     background-color: black;
     width: 310px;
-    padding:15px 15px 15px 15px;
+    padding:5px 5px 5px 5px;
     margin-top: 10px;
     border-radius: 40px;
     position: absolute;
     top: 25px;
-    left: 523px;
+    left: 220px;
     
 }
 .a2{
@@ -49,7 +49,7 @@
     border: 5px solid maroon;
     border-style: dashed;
     background-color:azure;
-    width: 300px;
+    width: 350px;
     text-align:center;
     color: brown;
     
@@ -64,7 +64,7 @@
     color: aliceblue;
     background-color: black;
     top: 1100px;
-   margin-left: 500px;
+   margin-left: 400px;
     border-radius: 15px;
     text-align: center;
 
